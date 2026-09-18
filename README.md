@@ -34,9 +34,11 @@ This system connects front-end conversational AI with advanced cloud automation:
 
 ### 📸 System Visuals & Architecture
 ### 🔄 1. Make.com Automation Scenario Workflow
-<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/9cfbc680-bb11-4d08-99b3-5b2f8b772a23" />
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/40795d5a-90cd-4266-af04-64b82027e0d6" />
+
 ### 📞 2. Vapi.ai Conversational AI Execution & Call Transcripts
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/0879e5cd-f23e-4852-95a5-ded737c3016c" />
+
 ### 📊 3. Patient Lead Database (Google Sheets CRM Integration)
 <img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/72020a41-c69e-47a4-934f-b1637e70e5c5" />
 
